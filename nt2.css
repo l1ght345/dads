@@ -1,13 +1,13 @@
 .adad{
     color: yellow;
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 20 px;
 }
 .ddd{
-    font-size: 20px;
+    font-size: 20 px;
     color: yellow;
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 20 px;
 }
 .div{
     display: flex;
@@ -25,10 +25,10 @@
     align-items: center;
 }
 .ffff{
-    font-size: 20px;
+    font-size: 20 px;
     color: yellow;
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 20 px;
 }
 .rrr{
     display: flex;
@@ -36,8 +36,8 @@
     align-items: center;
 }
 .rrrr{
-    font-size: 20px;
+    font-size: 20 px;
     color: yellow;
     background-color: aqua;
-    border-radius: 20px;
+    border-radius: 20 px;
 }
