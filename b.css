@@ -1,1 +1,6 @@
-
+h1 {
+    color:aqua;
+    background-color: blue;
+    border-radius: 5 px ;
+    font-size:30 px;
+}
