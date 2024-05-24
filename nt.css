@@ -41,9 +41,21 @@
     background-color: aqua;
     border-radius: 20 px;
 }
-.img{
+.dddd{
     opacity: 0,1;
 }
-.img:hover{
+.dddd:hover{
+    opacity: 1;
+}
+.dddd{
+    opacity: 0,1;
+}
+.dddd:hover{
+    opacity: 1;
+}
+.dddd{
+    opacity: 0,1;
+}
+.dddd:hover{
     opacity: 1;
 }
