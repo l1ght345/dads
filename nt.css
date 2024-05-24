@@ -41,3 +41,9 @@
     background-color: aqua;
     border-radius: 20 px;
 }
+.img{
+    opacity: 0,1;
+}
+.img:hover{
+    opacity: 1;
+}
