@@ -22,7 +22,7 @@
     border-radius:10 px;
     font-size: 20 px;
 }
-.menu{
+.hhh{
     color: aqua;
     background-color: black;
     text-align: center;
@@ -30,8 +30,4 @@
     font-size: 20 px;
     display: flex;
     justify-content:space-between;
-}
-.hhh{
-    display: flex;
-    jistify-content: center;
 }
