@@ -18,11 +18,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 0;
 }
 .dddd{
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 0;
 }
 .ffff{
     font-size: 20 px;
@@ -34,10 +36,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 0;
 }
 .rrrr{
     font-size: 20 px;
     color: yellow;
     background-color: aqua;
     border-radius: 20 px;
+}
+.rrr:hover{
+    opacity: 1;
+}
+.dddd:hover{
+    opacity: 1 ;
+}
+.fff:hover{
+    opacity: 1 ;
 }
